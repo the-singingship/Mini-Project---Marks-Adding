@@ -1,4 +1,4 @@
-# Mini-Project - Marks Adding
+# Mini Project-04: Marks Adding
 Thapar Summer School Projects
 
 This function takes two file names as input:
