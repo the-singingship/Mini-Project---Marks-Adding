@@ -1,4 +1,4 @@
-# Mini-Project---Text-File-Conversion
+# Mini-Project---Marks-Adding
 Thapar Summer School Projects
 
 This function takes two file names as input:
